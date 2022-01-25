@@ -1,0 +1,26 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all files
+*.txt
+*.mat
+*.MAT
+*.pdf
+*.PDF
+*.pcd
+*.bmp
+*.png
+marsh_3a.jpg
+marsh_3b.jpg
+marsh_3c.jpg
+main.m
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+
