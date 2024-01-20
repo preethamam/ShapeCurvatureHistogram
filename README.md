@@ -1,4 +1,6 @@
 # Introduction
+[![View Shape Curvature Histogram on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/97002-shape-curvature-histogram) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/ShapeCurvatureHistogram)
+
 Feature vector of the curvature histogram of the shapes.
 
 Based on the paper: <br />
@@ -14,7 +16,5 @@ Gadermayr, Michael, Michael Liedlgruber, Andreas Uhl, and Andreas Vécsei. "Shap
 MATLAB <br />
 MATLAB - Image Processing Toolbox
 
-# MATLAB Central
-[![View Shape Curvature Histogram on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/97002-shape-curvature-histogram)
-
+# Feedback
 Please rate and provide feedback for the further improvements.
